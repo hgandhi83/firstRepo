@@ -38,7 +38,7 @@ namespace WebApplication1.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
-            return View();
+            return View()fg;
         }
 
         public ActionResult Contact()
