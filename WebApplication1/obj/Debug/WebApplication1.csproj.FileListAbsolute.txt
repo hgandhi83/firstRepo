@@ -78,6 +78,5 @@ F:\RepoGit_clone\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
 F:\RepoGit_clone\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
 F:\RepoGit_clone\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
 F:\RepoGit_clone\WebApplication1\bin\Microsoft.AI.Web.xml
-F:\RepoGit_clone\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 F:\RepoGit_clone\WebApplication1\obj\Debug\WebApplication1.dll
 F:\RepoGit_clone\WebApplication1\obj\Debug\WebApplication1.pdb
